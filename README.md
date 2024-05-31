@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chukaUSW
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++, Java and Python
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on Git Hub and Docker
 - 📫 How to reach me chuka.nwankwo2@gmail.com
 
